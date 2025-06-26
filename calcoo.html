@@ -1,4 +1,3 @@
-<!-- Updated version with per-question timer, key shortcuts, and game-over logic -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
